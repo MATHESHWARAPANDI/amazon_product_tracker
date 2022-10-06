@@ -25,7 +25,7 @@ def check_price():
     product_title = product_title.strip()
     print(product_title)
     price = soup.find(id='priceblock_ourprice').get_text()
-    # print(price)
+    print(price)
     product_price = ''
     for letters in price:
         if letters.isnumeric() or letters == '.':
