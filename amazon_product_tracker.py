@@ -1,4 +1,4 @@
-import selinium
+import requests
 from bs4 import BeautifulSoup
 from a_email_alert import alert_system
 from threading import Timer
