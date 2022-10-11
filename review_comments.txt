@@ -1,0 +1,10 @@
+.gitignore nu oru file irukkum. Atha paththi padichchu athuvum intha repository la add panniru.
+
+
+README.md file create pannathu okay. But athula innum details add pannanum. Intha application enna pannum. Epdi run pannanum. Enna output varum. etc.
+
+Always write test file. pytest or unittest modules padi.
+
+python la file name convention epdi nu padi. rendu file name um rendu format la irukku.
+
+requirements.txt nu paththi padi. python library la naan ore command la install pannanum. athuku requirements.txt useful uh irukkum.
